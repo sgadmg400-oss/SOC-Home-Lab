@@ -39,22 +39,20 @@ This project demonstrates a complete SOC Home Lab built using the Elastic Stack 
 
 ## Screenshots
 
-## Screenshots
-
 ### Elastic Agent Healthy
-![Elastic Agent Healthy](screenshots/233553%2022-07-2026%20لقطة%20شاشة.png)
+![Elastic Agent Healthy](screenshots/elastic-agent-healthy.png)
 
 ### Elastic Defend Enabled
-![Elastic Defend Enabled](screenshots/215415%2023-07-2026%20لقطة%20شاشة.png)
+![Elastic Defend Enabled](screenshots/elastic-defend-enabled.png)
 
 ### RDP Detection
-![RDP Detection](screenshots/220332%2023-07-2026%20لقطة%20شاشة.png)
+![RDP Detection](screenshots/rdp-detection.png)
 
 ### Brute Force Alert
-![Brute Force Alert](screenshots/220825%2023-07-2026%20لقطة%20شاشة.png)
+![Brute Force Alert](screenshots/brute-force-alert.png)
 
 ### Discover
-![Discover](screenshots/221439%2023-07-2026%20لقطة%20شاشة.png)
+![Discover](screenshots/discover.png)
 
 ---
 
