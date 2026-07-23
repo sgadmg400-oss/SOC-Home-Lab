@@ -40,18 +40,28 @@ This project demonstrates a complete SOC Home Lab built using the Elastic Stack 
 ## Screenshots
 
 ### Elastic Agent Healthy
+The Elastic Agent is successfully connected and reporting to Fleet.
+
 ![Elastic Agent Healthy](screenshots/elastic-agent-healthy.png)
 
 ### Elastic Defend Enabled
+Elastic Defend integration enabled on the Windows endpoint.
+
 ![Elastic Defend Enabled](screenshots/elastic-defend-enabled.png)
 
 ### RDP Detection
+Detection of failed Remote Desktop Protocol (RDP) login attempts.
+
 ![RDP Detection](screenshots/rdp-detection.png)
 
 ### Brute Force Alert
+Brute force attack detected based on multiple failed login attempts.
+
 ![Brute Force Alert](screenshots/brute-force-alert.png)
 
 ### Discover
+Viewing collected Windows security events in Kibana Discover.
+
 ![Discover](screenshots/discover.png)
 
 ---
